@@ -6,5 +6,5 @@ ll r=a%b;
 a=b;
 b=r;
 }
-return b;
+return a;
 }
