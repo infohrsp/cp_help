@@ -1,5 +1,5 @@
 //to check if a number is prime or not
-bool isPrime(int n) {
+bool isPrime(ll n) {
     if (n <= 1) return false;
     if (n == 2) return true;
     if (n % 2 == 0) return false;
